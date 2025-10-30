@@ -1024,11 +1024,6 @@ const FourCsFramework = () => {
                 )}
               </div>
 
-              <div className="bg-teal-900/20 border border-teal-600/30 rounded-lg p-4">
-                <p className="text-sm text-gray-300">
-                  <span className="font-semibold text-teal-300">Note:</span> The 4Cs framework—Computation, Composition, Constraints, Calibration—is exceptionally well-suited to multimodal texts, perhaps even more so than to linguistic ones alone. Each "C" operates as a mode of sense-making across text, image, sound, and interaction. However, <span className="font-semibold">this visualization focuses on language</span> to develop the concepts clearly and concretely. Future extensions may adapt the framework to analyze other modalities.
-                </p>
-              </div>
 
               <div className="bg-slate-700/50 rounded-lg p-6">
                 <h3 className="text-xl font-semibold text-gray-200 mb-4">Three Core Recognitions</h3>
