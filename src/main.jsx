@@ -1,10 +1,10 @@
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
-import App from './App.jsx'
+import FourCsFramework_Integrated from './FourCsFramework_Integrated.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <App />
+    <FourCsFramework_Integrated />
   </StrictMode>,
 )
